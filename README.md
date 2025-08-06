@@ -15,7 +15,7 @@ You can install the development version of GseaVis from [GitHub](https://github.
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("junjunlab/GseaVis")
+devtools::install_github("NameAIAK/GseaVis_lu")
 ```
 
 ## Citation
